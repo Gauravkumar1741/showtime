@@ -1,3 +1,6 @@
+
+![Showtime svg](https://github.com/user-attachments/assets/f24327c6-a067-44ab-b29e-a779981ddded)
+
 # ShowTime - Ticket Booking Application
 
 Welcome to **ShowTime**, a comprehensive ticket booking application designed for a seamless experience in booking seats for your favorite shows and movies. This application offers user login and registration with verification mechanisms, a home page displaying various shows, and a secure checkout process integrated with Razorpay.
@@ -18,7 +21,8 @@ Welcome to **ShowTime**, a comprehensive ticket booking application designed for
 
 4. **Payment Integration**
    - Secure payment portal using Razorpay.
-   - Seamless transaction completion and receipt generation.
+   - Seamless transaction completion and receipt generation.![Uploading Showtime.svg.png…]()
+
 
 5. **Responsive UX Design**
    - User-friendly and responsive design for seamless browsing and booking across devices.
