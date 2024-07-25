@@ -105,4 +105,14 @@ We welcome contributions to improve ShowTime! Here’s how you can help:
 
 For any inquiries or feedback, please reach out to us at [your-email@example.com](mailto:your-email@example.com).
 
+![Screenshot 2024-07-25 152856](https://github.com/user-attachments/assets/99123fa6-8a5b-4ada-8108-f487066c61b3)
+
+![Screenshot 2024-07-25 153052](https://github.com/user-attachments/assets/37348536-509c-4872-aa6b-c4a54a8e0d94)
+
+
+![Screenshot 2024-07-25 205756](https://github.com/user-attachments/assets/c9f38f1f-a176-494a-bc3f-dad0e8db91eb)
+
+
+---
+
 Enjoy your shows with **ShowTime**!
